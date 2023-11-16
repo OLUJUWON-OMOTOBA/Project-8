@@ -1,3 +1,4 @@
+### Project Overview
 The "[HR Analytics Dashboard](https://github.com/OLUJUWON-OMOTOBA/Project-8/blob/main/HR%20Analytics%20Dashboard.pbix)" Power BI project is specifically crafted to provide a detailed and visualized overview of key human resources metrics within an organization. This project involves leveraging data related to employee details, attrition, and various demographic factors to offer insights that are crucial for HR decision-making. Here's an overview of the key components and features that might be included in the "HR Analytics Dashboard" Power BI project:
 
 1. **Data Sources:**
