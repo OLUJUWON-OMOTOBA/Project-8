@@ -35,3 +35,5 @@ The "[HR Analytics Dashboard](https://github.com/OLUJUWON-OMOTOBA/Project-8/blob
    - Implementation of role-based access controls to ensure that sensitive information is only accessible to authorized HR personnel.
 
 The "HR Analytics Dashboard" Power BI project serves as an invaluable tool for HR professionals to monitor workforce dynamics, understand attrition patterns, and make informed decisions to enhance employee engagement, retention, and overall HR strategy within the organization.
+![Screenshot 2023-11-09 092517](https://github.com/OLUJUWON-OMOTOBA/Project-8/assets/134015058/24b48789-a356-4e54-bd62-0e351a385bb0)
+
